@@ -1,11 +1,5 @@
 This repositiory provides the source code for joint sound event localization and classification. The acoustic inputs include multi-channel GCCPHAT features and MFCC features.
 
-You can download the reconstructed features here:
-https://drive.google.com/drive/folders/1NOnVSljflo7_0lkx_XFhWaeNOfhRLUrT?usp=sharing
-
-feat618dim.mat: small feature set for debug
-featall.mat: all features 
-
 
 To run the source code, please follow the next steps:
 step 1.
