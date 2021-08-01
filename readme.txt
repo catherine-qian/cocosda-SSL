@@ -12,7 +12,7 @@ Download the reconstructed features here: https://drive.google.com/drive/folders
 in the main directory
 
 The features are of dimension (# Segment)*(# Frame)*618, where 
-618 = 6 (6 pairs) * 51 (GCCPHAT coefficients) + 4 (4 microphone) * 78 (MFCC coefficients)
+618 = 6 (6 pairs) * 51 (GCCPHAT coefficients) + 1(1microphone) *8 frames* 39 (MFCC coefficients)
 
 step 3. 
 run:
