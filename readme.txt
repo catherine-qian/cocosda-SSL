@@ -23,6 +23,18 @@ Notes:
 -wts0:  weight of the localization task while (1-wts0) indicates the weight of event classification
         in particular, wts0=1 -> event localization only task, wts=0 -> event classification only task
         (for the results reported in the COCOSDA2021 paper, we choose wts0=0.99)
+        
+        
+Note: if you use this source code, please cite the paper:
+https://arxiv.org/pdf/2108.02539.pdf
+
+@article{qian2021sloclas,
+  title={SLoClas: A Database for Joint Sound Localization and Classification},
+  author={Qian, Xinyuan and Sharma, Bidisha and Abridi, Amine El and Li, Haizhou},
+  journal={arXiv preprint arXiv:2108.02539},
+  year={2021}
+}
+
 
 
 
